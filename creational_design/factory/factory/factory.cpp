@@ -2,3 +2,10 @@
 // C++
 // By: Nick from CoffeeBeforeArch
 
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    return 0;
+}
