@@ -13,7 +13,7 @@ Text Editor: VIM
 C++ Compiler: g++
 
 ## Concepts covered in C++ Crash Course
-# Data Structures
+# Creational Design Patterns
 | Video | Concepts | Files |
 | ----- | -------- | ----- |
 | <a href=https://youtu.be/HcKFp1CJi7Y>Object Oriented Design Patterns: Singletons</a> | Singletons | <a href=https://github.com/CoffeeBeforeArch/oo_design_patterns/blob/master/creational_design/singleton/singleton.cpp>singleton.cpp</a> |
