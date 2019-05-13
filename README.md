@@ -16,3 +16,5 @@ C++ Compiler: g++
 # Data Structures
 | Video | Concepts | Files |
 | ----- | -------- | ----- |
+| <a href=https://youtu.be/HcKFp1CJi7Y>Object Oriented Design Patterns: Singletons</a> | Singletons | <a href=https://github.com/CoffeeBeforeArch/oo_design_patterns/blob/master/creational_design/singleton/singleton.cpp>singleton.cpp</a> |
+| <a href=https://youtu.be/DutF7S27bZk>Object Oriented Design Patterns: Factories</a> | Factories | <a href=https://github.com/CoffeeBeforeArch/oo_design_patterns/blob/master/creational_design/factory/factory/factory.cpp>factory.cpp</a> |
